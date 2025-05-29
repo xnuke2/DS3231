@@ -7,7 +7,7 @@ Arduino library for interacting with DS3231 real-time clock (RTC) modules.
 - Get/set date and time
 - Read temperature from DS3231
 - Simple and intuitive API
-- Compatible with standard Wire.h library
+- Compatible with standard Wire.h library(https://github.com/czukowski/Wire.h)
 
 ## Installation
 
