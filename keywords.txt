@@ -1,0 +1,4 @@
+DS3231 KEYWORD1
+setDateTime KEYWORD2
+getDateTime KEYWORD2
+getTemperature KEYWORD2
